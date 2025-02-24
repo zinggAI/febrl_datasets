@@ -1,3 +1,3 @@
-This repository contains various datasets for febrl
+This repository contains various datasets for Febrl
 
-- febrl_70 - 50 records along with 20 duplicates and variations along all fields
+- febrl_70.csv contains 70 records
